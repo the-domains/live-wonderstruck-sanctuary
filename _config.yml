@@ -1,4 +1,4 @@
-name: null
+name: Live Wonderstruck Sanctuary
 favicon: null
 layout_spectrum: 0.7360436585731804
 typography_spectrum: 0.18538374034687877
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.07857515360228717
+  brandColors:
+    - '#f9f8f9'
+    - '#393945'
+    - '#fd9294'
+    - '#000000'
+    - '#b0b0b5'
+  brandStrength: 0.25
   lightness: 0.5763363149017096
   saturation: 0.0017937885131686926
   rhythmicContrast: 0.0860543001908809
