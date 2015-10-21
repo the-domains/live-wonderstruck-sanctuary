@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-20T17:50:59.125Z'
-dateModified: '2015-10-20T17:50:40.569Z'
+datePublished: '2015-10-21T00:29:40.833Z'
+dateModified: '2015-10-21T00:29:28.696Z'
 title: About Reiki
+sourcePath: _posts/2015-10-20-about-reiki.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-20-about-reiki.md
-published: true
 url: about-reiki/index.html
 _type: Article
 
